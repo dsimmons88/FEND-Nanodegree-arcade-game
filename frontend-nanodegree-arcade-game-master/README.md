@@ -9,6 +9,7 @@ This is a game about a cute little princess trying to making it to the river.
 
 How to play
 ==================================
+If you download the zip or clone from github, just open the index.html file. 
 
 Move the princess by using the arrow keys on the keyboard. You beat the game when you get to the river and avoid the bugs. The game will reset if you want to play again. 
 
